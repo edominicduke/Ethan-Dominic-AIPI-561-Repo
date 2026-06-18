@@ -9,7 +9,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .pytest_cache/
-.env
+week5/.env
 venv/
 
 # GCP credentials (NEVER commit)
